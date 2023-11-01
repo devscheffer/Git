@@ -7,7 +7,6 @@
 ### Coding
 ### Pull Request
 - Squash before mergin
-### Use tags
 ### Versioning standard for 0.0.0
 ### .gitignore
 symbol | action
