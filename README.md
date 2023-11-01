@@ -17,6 +17,7 @@ symbol | action
 **| any number of subdirectories
 ?|zero or one character
 !| inversion rule, includes what was excluded by a previous pattern
+
 Advantages of Git ignore
 
 There are other advantages to using a .gitignore file beyond ensuring specific files are not tracked by Git:
